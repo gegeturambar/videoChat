@@ -1,0 +1,18 @@
+
+================================================================================
+DEBUG INFO - ChromaDB Collection State
+================================================================================
+
+VIDEO ID: 7332d4bd-52d6-476c-b717-db81a5749dde
+TIMESTAMP: 2025-04-24T16:39:31.496956
+COLLECTION NAME: video_b6569f2a-210b-481a-83b7-a1d703fcb60f
+
+Number of documents: 1
+
+Documents and metadata:
+
+--- Document 1 ---
+Metadata: {'chunk_index': 0, 'source': 'transcription', 'total_chunks': 1, 'video_id': '7332d4bd-52d6-476c-b717-db81a5749dde'}
+Content:
+Alright so here we are one of the elephants. The cool thing about these guys is that they have really, really, really long punks. And that's cool. And that's pretty much all there is to say.
+----------------------------------------

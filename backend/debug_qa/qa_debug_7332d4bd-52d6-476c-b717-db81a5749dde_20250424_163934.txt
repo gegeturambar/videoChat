@@ -1,0 +1,25 @@
+
+================================================================================
+DEBUG INFO - Question/Answer Session
+================================================================================
+
+VIDEO ID: 7332d4bd-52d6-476c-b717-db81a5749dde
+TIMESTAMP: 2025-04-24T16:39:34.254153
+
+QUESTION:
+Quel est le sujet de la vidéo ?
+
+================================================================================
+CONTEXT:
+
+==================================================
+SEGMENT 0
+==================================================
+
+Alright so here we are one of the elephants. The cool thing about these guys is that they have really, really, really long punks. And that's cool. And that's pretty much all there is to say.
+
+
+================================================================================
+ANSWER:
+Le sujet de la vidéo est un éléphant, en particulier la caractéristique de sa longue trompe [Segment 0].
+================================================================================

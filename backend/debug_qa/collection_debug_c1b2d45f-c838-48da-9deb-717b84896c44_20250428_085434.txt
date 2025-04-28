@@ -1,0 +1,330 @@
+
+================================================================================
+DEBUG INFO - ChromaDB Collection State
+================================================================================
+
+VIDEO ID: c1b2d45f-c838-48da-9deb-717b84896c44
+TIMESTAMP: 2025-04-28T08:54:34.063815
+COLLECTION NAME: video_247a4bd3-0b25-4fc5-9a33-d26fdb4be571
+
+Number of documents: 53
+
+Documents and metadata:
+
+--- Document 1 ---
+Metadata: {'chunk_index': 0, 'source': 'transcription', 'total_chunks': 53, 'video_id': 'c1b2d45f-c838-48da-9deb-717b84896c44'}
+Content:
+Salut tout le monde, c'est Tia, donc avec Belli. Dans cette vidéo, vous allez apprendre comment vous allez pouvoir vous même rédiger des promptes de qualité supérieure du même niveau que les ingénieurs en printing. Je sais qu'il n'y a pas mal de vidéos qui ont déjà été effectuées à ce sujet, mais selon moi, je trouve qu'elles sont trop théoriques. Peut-être qu'aujourd'hui, vous utilisez déjà de chat gpt de manière efficace et vous obtenez des bons résultats, mais si jamais vous souhaitez passer à un niveau supérieur dans votre carrière en utilisant chat gpt, ou alors pour votre activité entre promenariale et installer des automatisations et des agendas dans votre entreprise, il est fondamentalement primordial de maîtriser l'art du promptil. Pourquoi ? Parce que c'est le prompt qui va conditionner l'efficacité, la durabilité de votre système de automatisation. Pour ceux qui ne me connaissent pas, je m'appelle Tiren Okay-Belly, j'ai monté la société Autonomignette et en accompagnant les
+----------------------------------------
+
+--- Document 2 ---
+Metadata: {'chunk_index': 1, 'source': 'transcription', 'total_chunks': 53, 'video_id': 'c1b2d45f-c838-48da-9deb-717b84896c44'}
+Content:
+l'efficacité, la durabilité de votre système de automatisation. Pour ceux qui ne me connaissent pas, je m'appelle Tiren Okay-Belly, j'ai monté la société Autonomignette et en accompagnant les entreprises et les entrepreneurs à acquérir des nouveaux clients tout en automatisant leur process avec des outils de nos codes et d'intidés en sorti officier de génératif. Alors, à la fin de cette éprésentation, vous allez être en mesure de pouvoir comprendre la première chose, c'est l'utilité d'avoir un prompt de qualité dans notre système d'attigement de sorti officiel parce que vous verrez, c'est un impact très important sur le coût de notre automatisation et la qualité de l'automatisation. Deuxième point, les différents types de modèles de promptes à utiliser en fonction de vos besoins. Et trois ans point, je vais vous faire part de quelques cas d'utilisation de prompt et mes recommandations, parce que vous allez utiliser ces promptes. Et à la fin, vous aurez un bonus qui sera deux outils.
+----------------------------------------
+
+--- Document 3 ---
+Metadata: {'chunk_index': 2, 'source': 'transcription', 'total_chunks': 53, 'video_id': 'c1b2d45f-c838-48da-9deb-717b84896c44'}
+Content:
+ans point, je vais vous faire part de quelques cas d'utilisation de prompt et mes recommandations, parce que vous allez utiliser ces promptes. Et à la fin, vous aurez un bonus qui sera deux outils. Le premier entier, ça gide un outil qui permet de pouvoir rédiger des promptes automatiques de manière rapide afin que vous puissiez uniquement les modifier les formats et en fonction de vos besoins. Et un deuxième outil qui vous permet de calculer les tokens générés pour avoir une estimation de votre coût d'installation. Pour la première question, pourquoi s'il faut s'intéresser au prompt engineering aujourd'hui? Alors, il faut revenir à la jeunesse, il faut savoir que les ordinateurs eux résonnent par binarité, c'est-à-dire avec des 0 et des 1. Et pour pouvoir communiquer avec des ordinateurs, il faut apprendre les langages affarmatiques, citants, c'est plus plus, etc. Et aujourd'hui, avec le nouveau programme LLM, c'est-à-dire les larges langages modèdes, les ordinateurs du moins
+----------------------------------------
+
+--- Document 4 ---
+Metadata: {'chunk_index': 3, 'source': 'transcription', 'total_chunks': 53, 'video_id': 'c1b2d45f-c838-48da-9deb-717b84896c44'}
+Content:
+il faut apprendre les langages affarmatiques, citants, c'est plus plus, etc. Et aujourd'hui, avec le nouveau programme LLM, c'est-à-dire les larges langages modèdes, les ordinateurs du moins l'intelligence artificielle étant mesure de pouvoir comprendre l'engage humain et le traduire en 0 et 1. Et c'est ce qui permet de pouvoir, c'est la compétence centrale numéro 1 pour créer les développés des automatisations d'un petit genre artificiel. Savoir et d'y gérer des prômes de qualité vous permet de pouvoir fiableiser votre système d'automatisation, le rendre plus pertinente et précis et également optimiser les cours, c'est-à-dire baisser les cours de token générés par votre automatisation. Donc c'est plus de compétence qui est indispensable. Avant de commencer, je pense qu'il est intéressant de récrécier en termes de principes premiers. Premièrement, qu'est-ce que signifie le mot « prompt ? » ? Le mot « prompt » en fait, c'est un actuel type en anglais qui veut dire quelque chose qui
+----------------------------------------
+
+--- Document 5 ---
+Metadata: {'chunk_index': 4, 'source': 'transcription', 'total_chunks': 53, 'video_id': 'c1b2d45f-c838-48da-9deb-717b84896c44'}
+Content:
+de récrécier en termes de principes premiers. Premièrement, qu'est-ce que signifie le mot « prompt ? » ? Le mot « prompt » en fait, c'est un actuel type en anglais qui veut dire quelque chose qui agit, quelque chose qui ne tarbe pas sur ce produit. Et ensuite, on va ajouter le mot « engineering » qui signifie « l'ingénierie » et en fait l'ingénierie, c'est le fait de pouvoir étudier un projet sur toutes ces aspects, d'un point de vue politique, sociétal, économique, etc. Donc l'idée à travers le « prompt » en « engineering » c'est de pouvoir étudier le « prompt » sur toutes ces aspects afin qu'ils puissent donner à gire le résultat et se compter. Donc cela se traduit un peu comme un algorithme. Un algorithme se divise en trois parties, une poute, action et output, donc résultat. Donc l'idée, ça ferait de pouvoir étudier comment qu'elle prende, utilisez pour que notre IA puisse lire à travers le langage LLM et nous traduire le résultat, se compter, le meilleur output voulu. Donc on va
+----------------------------------------
+
+--- Document 6 ---
+Metadata: {'chunk_index': 5, 'source': 'transcription', 'total_chunks': 53, 'video_id': 'c1b2d45f-c838-48da-9deb-717b84896c44'}
+Content:
+ça ferait de pouvoir étudier comment qu'elle prende, utilisez pour que notre IA puisse lire à travers le langage LLM et nous traduire le résultat, se compter, le meilleur output voulu. Donc on va voir principalement la différence entre le « prompt » conversationnel et le « prompt » structurez. On va se focaliser sur le « prompt » structurez pour voir comment est-ce qu'on le construit. Et on va, je vais vous expliquer l'enchaînement des « prompt » en chène. On va voir la différence. Quant est-ce qu'il faut utiliser les « prompt » court, les « prompt » non et les « prompt adaptés aux agents IA ? Et je vous donnerai les « cica » que je trouve très intéressant à utiliser lors du « prompt » en IA. Donc il faut savoir qu'il y a deux grands branches du prompting. Première branch, il s'agit de la partie conversationnelle. C'est ce que fait tout le monde lorsque, sur chat GPT, on le pose des questions, il nous donne des réponses sur fonction de sa réponse en le pose des questions
+----------------------------------------
+
+--- Document 7 ---
+Metadata: {'chunk_index': 6, 'source': 'transcription', 'total_chunks': 53, 'video_id': 'c1b2d45f-c838-48da-9deb-717b84896c44'}
+Content:
+s'agit de la partie conversationnelle. C'est ce que fait tout le monde lorsque, sur chat GPT, on le pose des questions, il nous donne des réponses sur fonction de sa réponse en le pose des questions complémentaires. Nous on va pas s'intéresser à cette partie, on va se focaliser sur la partie structurez. La partie structurez va nous permettre de pouvoir créer des automatisations de qualité et des agents IA. Pour pouvoir aider déjà un prompt structurez, il faut respecter trois principes. Premièrement, le fond, la forme et l'optimisation. Dans le fond, il faut lui attribuer un rôle, donc rédiger pour que le « IA » puisse rentrer dans les bottes d'une personne. Il faudra réitérer plusieurs fois notre prompt pour pouvoir atteindre le niveau de résultats escontés. Il y aura cela, va impliquer la chaîne de pensée qu'on va voir très prochainement. Il va falloir également le stimuler émotionnellement, voir à même le manipuler émotionnellement, afin qu'il puisse vraiment agir. Vous allez voir,
+----------------------------------------
+
+--- Document 8 ---
+Metadata: {'chunk_index': 7, 'source': 'transcription', 'total_chunks': 53, 'video_id': 'c1b2d45f-c838-48da-9deb-717b84896c44'}
+Content:
+chaîne de pensée qu'on va voir très prochainement. Il va falloir également le stimuler émotionnellement, voir à même le manipuler émotionnellement, afin qu'il puisse vraiment agir. Vous allez voir, c'est assez dark, mais c'est un point intéressant à développer. Et également, respecter le formatage, je me raccource, que je vais vous expliquer. Dans la forme, il y a plusieurs formes de promptes à utiliser, mais en général, celle qui marche le plus, c'est, premièrement, lui attribuer un rôle, lui donner, lui expliquer l'objectif à atteindre, lui expliquer le contexte de cet objectif, lui donner les instructions clairs et détailler. Il illustera avec des exemples et ajouter des notes sinistaires, des notes sinistaires. Et ensuite, une fois qu'on a le input, essayez d'optimiser le prompt afin de pouvoir, afin qu'il puisse focaliser sur une seule et unique tâche nécessaire. Pourquoi c'est important ? Parce qu'en fait, il ne peut pas, il y a de ne peut pas faire plusieurs tâches en même
+----------------------------------------
+
+--- Document 9 ---
+Metadata: {'chunk_index': 8, 'source': 'transcription', 'total_chunks': 53, 'video_id': 'c1b2d45f-c838-48da-9deb-717b84896c44'}
+Content:
+de pouvoir, afin qu'il puisse focaliser sur une seule et unique tâche nécessaire. Pourquoi c'est important ? Parce qu'en fait, il ne peut pas, il y a de ne peut pas faire plusieurs tâches en même temps, au risque d'être en burnout, si je peux utiliser le terme. C'est la raison pour laquelle pour les tâches qui nécessitent, qui sont assez complexes, il est nécessaire de les décomposer en plusieurs tâches séparées. Et utiliser, c'est input, c'est output pour pouvoir générer les prochains outputs nécessaires. Ce que je... ça résume un peu ce que je suis en train d'expliquer, c'est-à-dire que, lorsque vous avez demandé à l'IA de pouvoir réaliser une tâche, il faut l'idée à décomposer cette tâche pour arriver à la finalité. Premièrement, on va lui insérer un requête. Et à partir du résultat généré de cette requête, on va l'utiliser pour générer la prochaine requête. Unci de suite, ce qu'on appelle la chaîne de prompt. Et au final, action, il ne peut pas action, un peu comme travail
+----------------------------------------
+
+--- Document 10 ---
+Metadata: {'chunk_index': 9, 'source': 'transcription', 'total_chunks': 53, 'video_id': 'c1b2d45f-c838-48da-9deb-717b84896c44'}
+Content:
+généré de cette requête, on va l'utiliser pour générer la prochaine requête. Unci de suite, ce qu'on appelle la chaîne de prompt. Et au final, action, il ne peut pas action, un peu comme travail d'effort mis. On réalise le résultat volu. Et en fait, cela va vous permettre de pouvoir augmenter la fiabilité de votre agent et également la cohérence, parce qu'en fait, il va réfléchir et va se dire, ok, j'ai compris où est-ce qu'il va en venir, j'ai compris, où est-ce qu'il veut que ce que je fasse. Et il va à chaque fois qu'il va rééter rélaction, il va l'améliorer. D'où l'intérêt du fine tuning et tout ça. Donc voilà, on va fragmenter l'idée. C'est de fragmenter les tâches, petit à petit, pour arriver au résultat. Et en fonction des promptes, le cadre d'utilisation est différent. Par exemple, lorsqu'on va rédiger des promptes cours, cela sera en général pour des actions, pour des petites actions qui ne nécessitent pas forcément des développements. Donc il n'est pas nécessaire de devoir
+----------------------------------------
+
+--- Document 11 ---
+Metadata: {'chunk_index': 10, 'source': 'transcription', 'total_chunks': 53, 'video_id': 'c1b2d45f-c838-48da-9deb-717b84896c44'}
+Content:
+lorsqu'on va rédiger des promptes cours, cela sera en général pour des actions, pour des petites actions qui ne nécessitent pas forcément des développements. Donc il n'est pas nécessaire de devoir utiliser des structures longues, adaptées dans des situations où vous avez besoin simplement qu'ils traduisent un mot, qu'ils sortent tel information, de tel texte. Donc tout dépend en fait de votre cas d'utilisation. Et en général, il y a trois types de promptes à respecter, le prompt de cours qui sont généralement utilisés sur chat d'épétais ou sur make, comme vous pouvez l'voir. Après, on a le prompt de long qui est lui structuré pour pouvoir donner un comportement à notre automation et à notre agen-yah. Et on a le prompt agen-yah qui est lui un prompt de long et structuré, adaptée, personalisée pour vraiment que l'agent prenne un comportement spécifique et agiste d'une manière spécifique. Et cela ne prend plus de travail et c'est plus long. En général, lorsque vous allez rédiger des
+----------------------------------------
+
+--- Document 12 ---
+Metadata: {'chunk_index': 11, 'source': 'transcription', 'total_chunks': 53, 'video_id': 'c1b2d45f-c838-48da-9deb-717b84896c44'}
+Content:
+pour vraiment que l'agent prenne un comportement spécifique et agiste d'une manière spécifique. Et cela ne prend plus de travail et c'est plus long. En général, lorsque vous allez rédiger des promptes avec chat d'épétais, vous allez être dans ces six cas de figure. Vous allez vouloir extraire des nodés d'un document PDF. Lorsqu'on lui demande de traduire un document PDF, on lui demande d'extra-le de ces données, de faire une traduction, de créer des contenus sur réseaux sociaux ou au coex-cois. De classifier de la donnée ou des informations, de faire une évaluation sur des avis clients, sur un document, sur l'ocondidature, de transformer des données, ça peut être de la transaction vocale en texte et ou alors la prise de décision. Vous demandez de, en fonction de A ou B, prendre une décision. L'hémalisme arc d'hôme, qu'est-ce que c'est ? Il faut savoir que votre liat lorsqu'il va récléchir, lorsqu'il va lire votre prompt, il y aura un ordre dans lequel il va falloir respecter chaque
+----------------------------------------
+
+--- Document 13 ---
+Metadata: {'chunk_index': 12, 'source': 'transcription', 'total_chunks': 53, 'video_id': 'c1b2d45f-c838-48da-9deb-717b84896c44'}
+Content:
+L'hémalisme arc d'hôme, qu'est-ce que c'est ? Il faut savoir que votre liat lorsqu'il va récléchir, lorsqu'il va lire votre prompt, il y aura un ordre dans lequel il va falloir respecter chaque paragraph. Un peu comme un mathématique, où il faut respecter l'ordre des opérations avec la méthode PMDAS, la 6-minaire. Lorsque vous allez rédiger votre prompt et que vous allez mettre un dies, au début de votre texte, il va savoir que là, c'est la première partie à laquelle il faut commencer à lire le texte. Ensuite, 2 dies, ça veut dire, ça va partir la seconde partie, 3 dies, etc. Qu'à acter à gras, signifie pour lui que ce texte-là est très important, il faut le prendre en considération. Maître un texte en italique, il interprétera ça comme étant une notification à garder lorsqu'il va traiter ma formation, et ensuite, il va suivre les listes, etc. Lorsque vous allez rédiger, c'est pour ça que lorsqu'il va falloir bien faire attention à la forme lorsqu'il va lire votre prompt, il sera plus
+----------------------------------------
+
+--- Document 14 ---
+Metadata: {'chunk_index': 13, 'source': 'transcription', 'total_chunks': 53, 'video_id': 'c1b2d45f-c838-48da-9deb-717b84896c44'}
+Content:
+ma formation, et ensuite, il va suivre les listes, etc. Lorsque vous allez rédiger, c'est pour ça que lorsqu'il va falloir bien faire attention à la forme lorsqu'il va lire votre prompt, il sera plus sensible, tout comme un humain qui est très sensible au début d'une vidéo et à la fin de la vidéo, ce qui est au milieu, il sera moins sensible. Donc c'est très important de respecter les balises pour qu'il puisse garder son attention durant toute la lecture de votre prompt. Donc le format que je vous propose pour les prendre tout long, c'est un format... ce n'est pas un format universelle, mais c'est un format que j'utilise pour mon agence et qui marche très très bien avec lequel j'ai des résultats vraiment impressionnants. Ils se décomposent en cette partie le rôle, l'objectif, le contexte, l'instruction, des exemples, quelques var... Si vous avez des variables, vous mettez des variables et des notations. Donc premièrement le rôle. On va vous aller, dans votre prompt, vous allez
+----------------------------------------
+
+--- Document 15 ---
+Metadata: {'chunk_index': 14, 'source': 'transcription', 'total_chunks': 53, 'video_id': 'c1b2d45f-c838-48da-9deb-717b84896c44'}
+Content:
+l'instruction, des exemples, quelques var... Si vous avez des variables, vous mettez des variables et des notations. Donc premièrement le rôle. On va vous aller, dans votre prompt, vous allez assigner un rôle à votre IA, en lui disant que vous pouvez utiliser des mots comme tu es un expert en SEO ou tu agies comme un excellent rédacteur en chef d'une grande magazine. Donc en fait, il faut vraiment booster son ego. Le poussat, et ce qui se mette dans les bottes dans un champion du monde, dans le domaine, dans lequel vous souhaitez. Ensuite, vous allez seuter une ligne et lui donner l'objectif à terme pour réaliser ce que vous souhaitez qu'il réalise. En lui définissant, lui donner une description simple et précise du résultat, donc vous pouvez utiliser des mots comme ton objectif et de nous de me sortir tel ou ex résultat. Tu dois faire d'un an-an-an-un, pense étape par étape pour pouvoir atteindre ex résultat. Par exemple ici, on a votre objectif et de lire attentivement le profil du
+----------------------------------------
+
+--- Document 16 ---
+Metadata: {'chunk_index': 15, 'source': 'transcription', 'total_chunks': 53, 'video_id': 'c1b2d45f-c838-48da-9deb-717b84896c44'}
+Content:
+de me sortir tel ou ex résultat. Tu dois faire d'un an-an-an-un, pense étape par étape pour pouvoir atteindre ex résultat. Par exemple ici, on a votre objectif et de lire attentivement le profil du CV original et de reformater le CV dans le nouveau format. Vous allez réfléchir étape par étape suivant le processus ci-dessous pour assurer un bon résultat. Lire attentivement le CV original de ajouter le contenu du CV original dans le nouveau format, 3 ajouter toute information présente dans l'original et trouver un endroit clair pour la place à la fin du CV nous voulement formater. Troisième point, vous allez lui expliquer le contexte dans l'environnement dans lequel il travaille et pourquoi est-ce que vous allez lui dire pourquoi c'est important pour vous qu'il y ait à l'île cette tâche. C'est là où on rentre dans une forme de manipulation ou de stimulation émotionnelle. Parce qu'en fait, je joue une parenthèse pour que vous comprenez cela l'humain est un peu et drivez par ces émotions.
+----------------------------------------
+
+--- Document 17 ---
+Metadata: {'chunk_index': 16, 'source': 'transcription', 'total_chunks': 53, 'video_id': 'c1b2d45f-c838-48da-9deb-717b84896c44'}
+Content:
+là où on rentre dans une forme de manipulation ou de stimulation émotionnelle. Parce qu'en fait, je joue une parenthèse pour que vous comprenez cela l'humain est un peu et drivez par ces émotions. La peur, la mort, la tristesse, tous les émotions vont pousser l'humain à agir et à entreprendre des actions. Donc là, le bureau cherché éventuellement c'est bien de prômetter on ne revient toujours au prompting, c'est-à-dire de le pousser à agir d'une certaine manière. D'où le fait d'utiliser des mots comme c'est vraiment crucial pour mon entreprise parce que, nix ou grécrésons ou alors, c'est vital pour ma carrière que tu rédiges une lettre de motivation alors que, bien sûr, faut la faire vous-même. Mais c'est sans cémolat qui vont déclencher, en lui, grâce à des hauchemains neurono. Tout comme les humains qui ont des heuristiques de pensées pour pouvoir achevé leur chemin intellectuel, LIA va réfléchir le LLM s'appuie sur des chemins neurono pour réaliser et donner et prédire le prochain
+----------------------------------------
+
+--- Document 18 ---
+Metadata: {'chunk_index': 17, 'source': 'transcription', 'total_chunks': 53, 'video_id': 'c1b2d45f-c838-48da-9deb-717b84896c44'}
+Content:
+les humains qui ont des heuristiques de pensées pour pouvoir achevé leur chemin intellectuel, LIA va réfléchir le LLM s'appuie sur des chemins neurono pour réaliser et donner et prédire le prochain texte en question. Donc, voilà, vous allez lui donner le contexte. Ensuite, après, vous enchaînez sur les instructions dans la partie instruction, vous allez couvrir toutes les règles à respecter. Vous allez lui préciser le résultat attendu dans le route-pout. Et vous allez éventuellement, vous allez prédire les erreurs pour le renseignement. C'est-à-dire, bien, par exemple, Giesse instruction point très important. A surtout, d'être exhaustif mais que toutes les données sont ajoutées au nouveau format. S'il n'y a pas de section claire pour ajouter des informations du CV originale dans le nouveau CV ajouté à la fin. Slash-2, toujours dans le style Markdown, voici, donc là, on va lui préciser les résultats attendus, ce qui est ce qu'on veut que nous nous donne. Voici le nouveau format pour le
+----------------------------------------
+
+--- Document 19 ---
+Metadata: {'chunk_index': 18, 'source': 'transcription', 'total_chunks': 53, 'video_id': 'c1b2d45f-c838-48da-9deb-717b84896c44'}
+Content:
+CV ajouté à la fin. Slash-2, toujours dans le style Markdown, voici, donc là, on va lui préciser les résultats attendus, ce qui est ce qu'on veut que nous nous donne. Voici le nouveau format pour le CV. Curriculum, BITA, Forma, Non, Nantes du candidat, lieu, education, etc. Et en fait, du coup, pour étuser des mots comme important, ne pas dire quelque chose, ne fait pas ça évite de donner un avis sur tel information ou évite d'ajouter des guillemets à la fin de t-texte, etc. Vous voyez, c'est un peu vraiment... C'est pour ça que j'ai bien utilisé la métaphore du stagiaire, du G&T stagiaire et en cherchant, en fait, à le formater, le modéliser pour qu'il puisse atteindre un comportement qu'on souhaite et pour pouvoir atteindre le résultat. Ensuite, vous avez passé la partie exemple. Dans l'exemple, c'est la partie la plus importante. Il faut vraiment que vous accorder du temps dans cette partie. Parce que c'est cette partie qui va lui permettre de pouvoir comprendre et avoir la ligne
+----------------------------------------
+
+--- Document 20 ---
+Metadata: {'chunk_index': 19, 'source': 'transcription', 'total_chunks': 53, 'video_id': 'c1b2d45f-c838-48da-9deb-717b84896c44'}
+Content:
+l'exemple, c'est la partie la plus importante. Il faut vraiment que vous accorder du temps dans cette partie. Parce que c'est cette partie qui va lui permettre de pouvoir comprendre et avoir la ligne directive à suivre pour pouvoir vous donner un résultat le résultat à esconter. Dans cette partie, si jamais vous n'avez pas d'exemple à illustrer, moi ce que je vous recommande de faire pour vous donner votre preuves d'avoir le output et d'utiliser ce output d'utiliser sur le résultat et d'intégrer dans votre exemple dans votre preuves pour lui donner un peu la ligne directive à suivre et après que vous pouvez modifier les éléments nécessaires. Mais c'est très important que vous voulez donner des exemples là où est-ce que vous ne souhaitez pas. Ensuite, on a la partie variable et la partie variable est facultative. Elle est nécessaire uniquement si jamais vous souhaitez qu'il aille chercher une information clé dans le document ou dans la base de données que vous souhaitez et qui sera
+----------------------------------------
+
+--- Document 21 ---
+Metadata: {'chunk_index': 20, 'source': 'transcription', 'total_chunks': 53, 'video_id': 'c1b2d45f-c838-48da-9deb-717b84896c44'}
+Content:
+variable est facultative. Elle est nécessaire uniquement si jamais vous souhaitez qu'il aille chercher une information clé dans le document ou dans la base de données que vous souhaitez et qui sera réutilisée dans notre partie de votre automatisation. Donc vous avez simplement sous-formables, votre preuves et ensuite après il le reconnaîtra. Et la dernière partie, dans la note, c'est là où vous allez vraiment insister sur le règles important à suivre sur le format de sortie et mettre et réenforcer les meurs pratiques que vous avez vu précédemment. Par exemple, ça peut être GES Note. Il est très important, il est absolument vital pour ma carrière que tu n'ajoutes pas de commentaires inutiles et très important ne fait pas de photos de gravre dans ta réaction. Dans ta rédaction. En fait, il faut partir du principe que vraiment il réfléchit exactement comme un humain. Les humains sont très attentifs au début d'une vidéo ou d'un texte ou d'un événement et à la fin de cet événement. Tout ce
+----------------------------------------
+
+--- Document 22 ---
+Metadata: {'chunk_index': 21, 'source': 'transcription', 'total_chunks': 53, 'video_id': 'c1b2d45f-c838-48da-9deb-717b84896c44'}
+Content:
+partir du principe que vraiment il réfléchit exactement comme un humain. Les humains sont très attentifs au début d'une vidéo ou d'un texte ou d'un événement et à la fin de cet événement. Tout ce qui se passe au milieu il sera moins attentif parce qu'il risque d'être redistré. En fait, le liat, le lm, c'est similaire. Il va falloir bien renforcer le début de votre prompt et la fin de votre prompt. Et comme ça, pour garder son attention durant la lecture intégrale de votre prompt. Dans la partie, le format des promptes cours, c'est très simple, très succin. Il se divise entre à partir. L'objectif, on va lui donner des instructions clairs. Par exemple, objectif. Vous voyez identifier le nom de la personne dans le service dessous des commandes qui vendent les grav worries, ouunu, ou Maybelline attendant la unevenité, une vraie médeche avalée. Une valeur cuántique crunchy avalée, est次 la partie charlamée. Vous voyez une réelle vive. Ce sera une pareille minimique qui va laisser angry. Par
+----------------------------------------
+
+--- Document 23 ---
+Metadata: {'chunk_index': 22, 'source': 'transcription', 'total_chunks': 53, 'video_id': 'c1b2d45f-c838-48da-9deb-717b84896c44'}
+Content:
+attendant la unevenité, une vraie médeche avalée. Une valeur cuántique crunchy avalée, est次 la partie charlamée. Vous voyez une réelle vive. Ce sera une pareille minimique qui va laisser angry. Par exemple, du nom croiser des hike, hay un改nel point. que j'utilise régulièrement et qui est efficace, qui n'a pas besoin de supplémentaires. Ensuite, apprendre à les formats pour les promptes à Jean-Ia. C'est son des plus compliqués. Pourquoi ? Parce qu'en fait, en rentre dans deux forces contradictoires. La première force, c'est que les agents-Ia, lorsque vous configurez votre agent-Ia, vous pouvez attribuer des outils et des tâches à effectuer. Et de la côté, lorsque vous allez le connecter au Aliyah, donc au LLM, il aura du mal à traiter la multitude de ces tâches. C'est la raison pour laquelle le prompt va permettre de pouvoir faciliter la connexion entre les deux et de pouvoir transmettre les informations, le roage, on va dire, le mécanisme. Et la raison pour laquelle, très souvent,
+----------------------------------------
+
+--- Document 24 ---
+Metadata: {'chunk_index': 23, 'source': 'transcription', 'total_chunks': 53, 'video_id': 'c1b2d45f-c838-48da-9deb-717b84896c44'}
+Content:
+le prompt va permettre de pouvoir faciliter la connexion entre les deux et de pouvoir transmettre les informations, le roage, on va dire, le mécanisme. Et la raison pour laquelle, très souvent, lorsque vous développez des agents-Ia et que le prompt est mal rédigé, votre automatisation dysfonctionne ne marche pas à cause de la qualité de votre prompt. Pour pouvoir rédiger un prompt de qualité et adapter pour les agents-Ia, je vous propose ce modèle, ce format, qui reprend un peu le principe du format lent, mais avec quelques spécificités. Premièrement, le rôle. On lui attribue un rôle, comme on a vu précédemment, avec une meilleure description de la personne, d'osément l'objectif, dans la partie objectif, on va se focaliser ou, sur la responsabilité de l'agent Ia à pouvoir prendre des décisions. En utilisant les outils qu'on va lui donner ou les décisions inter-entre les sous-agents, ou alors se focaliser sur la communication, donc la transmission d'information inter-Ia, inter-agents
+----------------------------------------
+
+--- Document 25 ---
+Metadata: {'chunk_index': 24, 'source': 'transcription', 'total_chunks': 53, 'video_id': 'c1b2d45f-c838-48da-9deb-717b84896c44'}
+Content:
+En utilisant les outils qu'on va lui donner ou les décisions inter-entre les sous-agents, ou alors se focaliser sur la communication, donc la transmission d'information inter-Ia, inter-agents ou avec le user interface, avec l'utilisateur, également déléguer tout autre type de travail avec les outils qu'on va lui demander, qu'on va lui attribuer ou les sous-agents. Donc en fait, la partie objectif pourrait ressembler à ça. Votre travail est de gérer ma boîte de réception et de décider de la bonne action à l'entreprendre selon les instructions qui vous sont donnés. Vous avez les outils suivant à votre disposition. Et là, vous voulez listé, catégoriser les emails, écrire des emails, générer du contenu. Donc vous voyez, on ne va pas lui dire très bien, donc pour pouvoir réaliser cette tâche, tu vas ouvrir ma boîte mail, sélectionner le premier mail que j'ai reçu, analyser cette email, écrire une réponse par email, etc. On va vraiment lui donner les outils et les tâches et le laisser
+----------------------------------------
+
+--- Document 26 ---
+Metadata: {'chunk_index': 25, 'source': 'transcription', 'total_chunks': 53, 'video_id': 'c1b2d45f-c838-48da-9deb-717b84896c44'}
+Content:
+tu vas ouvrir ma boîte mail, sélectionner le premier mail que j'ai reçu, analyser cette email, écrire une réponse par email, etc. On va vraiment lui donner les outils et les tâches et le laisser prendre le décision, clairement comme un stagiaire. Ensuite, troisième partie de notre prompt, on va rédiger le contexte, donc ça ne change pas, pareil, on lui explique pourquoi ce que cette tâche est essentiel pour notre activité et toujours pareil, on va essayer de mettre des éléments dans l'engage qui permettent de pouvoir le stimuler émotionnellement pour qu'il puisse produire un travail de qualité. On va rédiger une partie SOP et POP. Qu'est-ce que ça veut dire SOP et POP? SOP c'est les standards operation permanents. En gros, en français, c'est les procédures d'opération permanente. En entreprise, vous avez sûrement des fiches techniques qui vous expliquent comment traiter une tâche du début jusqu'à la fin pour pouvoir résoudre un problème. Là, ce qui est intéressant, c'est qu'on peut
+----------------------------------------
+
+--- Document 27 ---
+Metadata: {'chunk_index': 26, 'source': 'transcription', 'total_chunks': 53, 'video_id': 'c1b2d45f-c838-48da-9deb-717b84896c44'}
+Content:
+vous avez sûrement des fiches techniques qui vous expliquent comment traiter une tâche du début jusqu'à la fin pour pouvoir résoudre un problème. Là, ce qui est intéressant, c'est qu'on peut alimenter nos agents et y'a à partir de ces fiches, on peut alimenter leurs bases de données et ils sont en mesure de pouvoir lire ces fiches et nous faire ne s'attêse ou à accompagner l'utilisateur en le expliquant quelle est la procédure à suivre pour résoudre tel ou tel tâche. Cette partie, on va vraiment détailler et lui expliquer que c'est très important. On va décomposer les étapes de manière numérique et on va lui expliquer les étapes à suivre pour pouvoir résoudre la procédure. Donc, par exemple, ça pourrait donner quelque chose comme il est essentiel pour la carrière de Ternos que vous réfléchissez toujours étapes par étapes en suivant le procédure SOP. Pour garantir une gestion minutieuse les précises d'étages. Deux points. Décider à quel agent déléguer les tâches en fonction de la
+----------------------------------------
+
+--- Document 28 ---
+Metadata: {'chunk_index': 27, 'source': 'transcription', 'total_chunks': 53, 'video_id': 'c1b2d45f-c838-48da-9deb-717b84896c44'}
+Content:
+toujours étapes par étapes en suivant le procédure SOP. Pour garantir une gestion minutieuse les précises d'étages. Deux points. Décider à quel agent déléguer les tâches en fonction de la demande de Ternos. De communiquer clairement à chaque sousagent ce qui doit être fait inclure les informations pertinentes. Trois. Toujours communiquer les mises à jour aux questions via l'outil SLAIC. Donc, de cette manière, l'IA va comprendre les étapes à suivre lorsqu'ils rencontrent un problème ou lorsqu'ils doivent traiter une solution mais ça permet de renforcer en fait ces compétences. Cinqième point. La partie instruction, ça ne change pas. Dans cette partie, on va couvrir tous les règles à respecter. Ce qui ne doit pas faire et ce qui le doit faire, précisez le résultat attendu donc notre output et prédire des potentiels erreurs qui n'ont pas vérimé. Toujours pareil, vous pouvez utiliser des mots qui vont attirer sur l'attention comme important, ne pas dire, ne pas faire, ne fait surtout pas
+----------------------------------------
+
+--- Document 29 ---
+Metadata: {'chunk_index': 28, 'source': 'transcription', 'total_chunks': 53, 'video_id': 'c1b2d45f-c838-48da-9deb-717b84896c44'}
+Content:
+et prédire des potentiels erreurs qui n'ont pas vérimé. Toujours pareil, vous pouvez utiliser des mots qui vont attirer sur l'attention comme important, ne pas dire, ne pas faire, ne fait surtout pas ou voir même faire du chantage émotionnel en lui disant, je te donnerai un proboire si tu réalises telle chose, etc. Cinqième point, les outils. Quand je vous l'expliquais, lorsqu'on vous aillez configurer votre agenda et ajouter les outils, il faut que vous fassiez une description de ces outils. Donc, on lui explique en brillèvement ce qu'elles sont ces outils, ce qu'elles peuvent faire quand elles les utilisent et si elles ont des spécificités. Et également, les sous-agents qui vont lui attribuer à décrire leur responsabilité qui sont ces sous-agents et quand les utilisent. Donc par exemple, ça pourrait donner quelque chose comme outils et sous-agents. Vous disposez d'un outil et de trois sous-agents pour atteindre vos objectifs. Slash, agents de gestion de timel, c'est très important
+----------------------------------------
+
+--- Document 30 ---
+Metadata: {'chunk_index': 29, 'source': 'transcription', 'total_chunks': 53, 'video_id': 'c1b2d45f-c838-48da-9deb-717b84896c44'}
+Content:
+ça pourrait donner quelque chose comme outils et sous-agents. Vous disposez d'un outil et de trois sous-agents pour atteindre vos objectifs. Slash, agents de gestion de timel, c'est très important de rappeler l'agent par un slash pour qu'il puisse directement le détecter à travers la lecture. Cette agent peut gérer tous les tâches liées à la boîte de recepção de tirno, y compris, récupérer les emails, envoyer des emails et rédiger des emails. Quand les utilisées, de point, pour toute tâche liée à la boîte de recepção de tirno, comment communiquer. Lorsque vous délégiez une tâche à la gente de gestion, il faut que les étions de la boîte de recepção ne soient pas obligés. Donc, vous avez besoin de la boîte de recepção d'un outil et de la boîte de recepção de tirno. J'ai besoin de la boîte de recepção de tirno. J'ai besoin de la boîte de recepção de tirno. Agen de gestion de la cendrie, cette agent peut gérer tous les tâches liées au calendrier de tirno, y compris, obtenir sa
+----------------------------------------
+
+--- Document 31 ---
+Metadata: {'chunk_index': 30, 'source': 'transcription', 'total_chunks': 53, 'video_id': 'c1b2d45f-c838-48da-9deb-717b84896c44'}
+Content:
+la boîte de recepção de tirno. J'ai besoin de la boîte de recepção de tirno. Agen de gestion de la cendrie, cette agent peut gérer tous les tâches liées au calendrier de tirno, y compris, obtenir sa disponibilité, créer des événements dans le calendrier, et récupérer des événements dans un crénaux donné. Quand les utilisées pour toutes les tâches liées au calendrier de tirno, comment communiquer, lorsque vous délégiez une tâche à l'agent de gestion du calendrier, soyez aussi précis que possible en l'usé indiquant ce qu'il doit faire et en incluant tous les détails pertinents. Par exemple, vous voyez planifier une réunion avec Robert Lacroix à 15 heures de main par de Paris. Vous voyez, dans la rédaction, dans le fond, on ne leur dit pas exactement quoi faire. On leur dit simplement, vous avez été l'outil, vous devez atteindre tel tâche, maintenant, des bruits ou pour réaliser cette tâche. Et là, en fait, ça sous-entend, ça implique de leur déléguer la prise de décision sur les tâches
+----------------------------------------
+
+--- Document 32 ---
+Metadata: {'chunk_index': 31, 'source': 'transcription', 'total_chunks': 53, 'video_id': 'c1b2d45f-c838-48da-9deb-717b84896c44'}
+Content:
+avez été l'outil, vous devez atteindre tel tâche, maintenant, des bruits ou pour réaliser cette tâche. Et là, en fait, ça sous-entend, ça implique de leur déléguer la prise de décision sur les tâches à entreprendre. Et ils vont essayer de prendre la solution la plus rapide pertinente pour pouvoir résoudre le problème. Ensuite, dans la partie exemple, on va préciser, on va expliquer à l'agent comment il doit utiliser le essopique et être écharu dans sa base de données. Par exemple, ça pourrait donner quelque chose comme vous voyez planifier une réunion avec Jean-Dôme, demain à 15 heures pour discuter du nouveau projet. On va lui également animer, pour confirmer l'invitation à la réunion. Par exemple, votre essopie, décider quel agent délégué pour les tâches en fonction de la demande de Tiano, déléguer à l'agent du calendrier et agent de gestion des emails. Donc toujours, on lui laisse la main pour décider à quel agent il faut, avec quel agent il faut traiter pour pouvoir résoudre le
+----------------------------------------
+
+--- Document 33 ---
+Metadata: {'chunk_index': 32, 'source': 'transcription', 'total_chunks': 53, 'video_id': 'c1b2d45f-c838-48da-9deb-717b84896c44'}
+Content:
+déléguer à l'agent du calendrier et agent de gestion des emails. Donc toujours, on lui laisse la main pour décider à quel agent il faut, avec quel agent il faut traiter pour pouvoir résoudre le problème, pour pouvoir résoudre l'attache. De communiquer clairement à chaque sousagent ce qui doit être fait. Instruire agent de gestion calendrier, veiller planifier une réunion avec Jean-Dôme, demain à 15 heures par de Paris pour discuter du nouveau projet. De instruire agent de gestion email, veiller rédigé un email à Jean-Dôme pour confirmer une réunion demain à 15 heures par de Paris. Ensuite, avant dernier parti, on a ajouté des variables sinéccessaires, si vous vous utilisez des variables, et pareil une notation pour, à la fin de notre preinte, en remet ne couche sur les règles importantes à respecter. Donc, petite précision sur le modèle GPT-O1, c'est un modèle ultra efficace. Pourquoi ? Parce qu'en fait, c'est un modèle qui est capable de pouvoir choisir les meilleures chemins
+----------------------------------------
+
+--- Document 34 ---
+Metadata: {'chunk_index': 33, 'source': 'transcription', 'total_chunks': 53, 'video_id': 'c1b2d45f-c838-48da-9deb-717b84896c44'}
+Content:
+à respecter. Donc, petite précision sur le modèle GPT-O1, c'est un modèle ultra efficace. Pourquoi ? Parce qu'en fait, c'est un modèle qui est capable de pouvoir choisir les meilleures chemins heuristiques pour résoudre le problème. C'est à dire quoi ? Il a un esprit mathématique très poussé. D'ailleurs, ce modèle-là que utilise les scientifiques pour travailler est en mesure de pouvoir résoudre des problèmes mathématiques complexes. Et l'avantage, c'est qu'on aura plus besoin de développer des promptes lent structurées pour qu'ils puissent comprendre comment traiter au réaliser une attache. Parce que, du fait que la chaîne de pensée est inclus dans le modèle, donc par deductions, il va choisir, il va prendre la décision la plus efficace pour pouvoir résoudre. C'est comme ils demandent. Et toujours pareil, utiliser le formatage Markdown pour qu'ils puissent bien lire et comprendre l'ordre de votre prompte. Ok, maintenant, on va voir les six principaux cas de figure lorsque vous devez
+----------------------------------------
+
+--- Document 35 ---
+Metadata: {'chunk_index': 34, 'source': 'transcription', 'total_chunks': 53, 'video_id': 'c1b2d45f-c838-48da-9deb-717b84896c44'}
+Content:
+toujours pareil, utiliser le formatage Markdown pour qu'ils puissent bien lire et comprendre l'ordre de votre prompte. Ok, maintenant, on va voir les six principaux cas de figure lorsque vous devez rédigir un prompt. Premièrement, l'extraction de données. Parfois, vous pouvez demander à votre automatisation où à la Jean-Yade, allez chercher une donnée spécifique à travers un lien URL ou la recherche Google ou, éventuellement, faire du datas trapping en récupérant des données sur des profils nidigens lorsque vous faites de la protection en ligne. Ce type de cas nécessite, principalement, d'utiliser des promptes impromptes cours. Parce qu'on va simplement lui demander de la décharcher X information sur tel page et pouvoir très très vite. C'est une main, j'ai bien un insta-risk. Pour un simple et bon raison, parfois, vous pouvez demander à l'IA, à l'automatisation d'aller chercher tel information à la troisième, quatrième ou XM, ou unième page de Internet. Cela nécessite de faire de
+----------------------------------------
+
+--- Document 36 ---
+Metadata: {'chunk_index': 35, 'source': 'transcription', 'total_chunks': 53, 'video_id': 'c1b2d45f-c838-48da-9deb-717b84896c44'}
+Content:
+simple et bon raison, parfois, vous pouvez demander à l'IA, à l'automatisation d'aller chercher tel information à la troisième, quatrième ou XM, ou unième page de Internet. Cela nécessite de faire de structurer votre prompte. Donc là, il va falloir utiliser des promptes longs pour lui expliquer exactement la démarche à suivre. Et pour cela, en général, moi, j'utilise des modèles économiques, c'est-à-dire GPT 3.5, ou voire même GPT 4 mini, ça fait largement la faire. Deuxième point, la classification. Vous allez parfois envie de automatiser la classification de vos emails ou de certains dossiers. Pour cela, moi, j'utilise principalement les structures courtes, parce que c'est son détach, je ne sais si il ne s'agit pas forcément un développement complexe. Après, si jamais la classification est très sub-activée, vous devez prendre en compte certaines variables en fonction des messages, en fonction des personnes. L'aventuellement, on faudra partir sur le contexte long blanc et utiliser
+----------------------------------------
+
+--- Document 37 ---
+Metadata: {'chunk_index': 36, 'source': 'transcription', 'total_chunks': 53, 'video_id': 'c1b2d45f-c838-48da-9deb-717b84896c44'}
+Content:
+est très sub-activée, vous devez prendre en compte certaines variables en fonction des messages, en fonction des personnes. L'aventuellement, on faudra partir sur le contexte long blanc et utiliser également un langage des modèles économiques dès que GPT 4 mini. Ça peut faire la faire.jaie de la classification de la classification. Deuxième point, la classification de continue. Vous utilisez laissé de la geschafftation pour demander la rédaction d'un article pour votre site internet ou rédiger une analyse sur un CV ou sur un document ou alors il y a un texte. Donc là on va lui demander de créer du contenu. Et donc cela nécessite de stimuler sa créativité, stimuler ses émotions, stimuler ces neurones. Donc naturellement il va falloir rédiger, partir sur un prendre long et accuser les meilleures modèles les modèles les plus performants pour pouvoir atteindre des résultats très satisfaisants. Parmi ces modèles moi je vous recommande GPT O1 ou GPT4, c'est très efficace ou alors vous
+----------------------------------------
+
+--- Document 38 ---
+Metadata: {'chunk_index': 37, 'source': 'transcription', 'total_chunks': 53, 'video_id': 'c1b2d45f-c838-48da-9deb-717b84896c44'}
+Content:
+meilleures modèles les modèles les plus performants pour pouvoir atteindre des résultats très satisfaisants. Parmi ces modèles moi je vous recommande GPT O1 ou GPT4, c'est très efficace ou alors vous utilisez cloi de 3 au cusse. Ensuite après on a en alécat de figure ou en souhaite évaluer quelque chose. Les évaluations sur des résultats de recharge par vecteur ou l'analyse des sentiments des emails clients que vous recevez pour sentir le pouvoir, les feedbacks ou à demander à l'évaluation des qualités de sortie de modèles de langage. Et pour ça naturellement il faut partir sur des modèles sur des structures langues parce que cela nécessite de pouvoir décortiquer les sentiments et expliquer à quel moment on veut prendre le pouls du texte en question. Ensuite après on a pour cela moi je vous recommande d'utiliser les meilleures modèles donc GPT4, cloi de 3 au cusse. Après on a la transformation de données. Parfois on va demander à GPT4 au modèle de formaté une donnée X en une donnée Y,
+----------------------------------------
+
+--- Document 39 ---
+Metadata: {'chunk_index': 38, 'source': 'transcription', 'total_chunks': 53, 'video_id': 'c1b2d45f-c838-48da-9deb-717b84896c44'}
+Content:
+recommande d'utiliser les meilleures modèles donc GPT4, cloi de 3 au cusse. Après on a la transformation de données. Parfois on va demander à GPT4 au modèle de formaté une donnée X en une donnée Y, tout comme la voix tradure ne voix en texte ou vice versa ou alors la sortie de données en langage différent. Donc pour cela moi j'utilise très souvent la structure courte parce que cela lui permet de réaliser une seule et unique tâche et il peut se concentrer et mettre son focus le pleinement dedans. Et pour cela plutôt que d'utiliser des modèles plutôt que d'utiliser des modèles économiques l'idéal ça serait d'utiliser des modèles un peu plus performant comme au 1 qui a une familiarité avec les mathématiques donc il sera en mesure de pouvoir traiter la tâche de manière la puissante efficace et rapide possible. Ensuite après on a la prise de décision, cela c'est principalement uniquement lorsque vous utilisez la question, le développement d'Agent Yaa et là effectivement il va falloir
+----------------------------------------
+
+--- Document 40 ---
+Metadata: {'chunk_index': 39, 'source': 'transcription', 'total_chunks': 53, 'video_id': 'c1b2d45f-c838-48da-9deb-717b84896c44'}
+Content:
+et rapide possible. Ensuite après on a la prise de décision, cela c'est principalement uniquement lorsque vous utilisez la question, le développement d'Agent Yaa et là effectivement il va falloir utiliser les prentes à Jean Yaa qui sont les prentes spécifiques structurées pour les agents Yaa et utiliser les meilleures modèles pour avoir des meilleures résultats possibles. On se retrouve sur mon espace Ray Levant AI dessus, c'est dessus que je développe mes agents Yaa et que je les configure. L'objectif c'est simplement de vous montrer comment structurer un prentes à Jean Yaa pour que vous puissiez avoir une idée. Petit parenthèse, on voit si comment se présente l'interface donc vous avez votre agent, vous lui donnez un an et vous lui donnez également une description. La description est très importante parce que cela va conditionner son comportement. Ici on va lui dire tu es l'assistant personnel de Terno, tu gères son agenda, sa boîte email et son ocean. D'eux-dessus dans cette zone
+----------------------------------------
+
+--- Document 41 ---
+Metadata: {'chunk_index': 40, 'source': 'transcription', 'total_chunks': 53, 'video_id': 'c1b2d45f-c838-48da-9deb-717b84896c44'}
+Content:
+importante parce que cela va conditionner son comportement. Ici on va lui dire tu es l'assistant personnel de Terno, tu gères son agenda, sa boîte email et son ocean. D'eux-dessus dans cette zone là on va copier coller le prentes qu'on aura rédigé, on va y revenir juste après et on peut lui ajouter un workflow, les outils de notre application nécessaire, ça va envers la salle. Dans cette zone là on va ajouter des outils. Qu'est-ce que c'est qu'un outil ? Les outils, c'est ce qui va lui permettre de pouvoir réaliser ces tâches et les actions. Par exemple on peut lui demander d'aller faire des recherches sur Google, avec ChatGPT, on peut lui demander de faire du code Colleen, on peut lui demander plusieurs choses et c'est son les outils qu'on va lui donner pour pouvoir réaliser sa mission. Ensuite on peut lui ajouter également des sousagents. Là je n'ai pas ajouté, mais en fait si c'est ce sousagent qui vont chacun avoir la responsabilité de gérer une tâche ou plusieurs tâches. Dans le
+----------------------------------------
+
+--- Document 42 ---
+Metadata: {'chunk_index': 41, 'source': 'transcription', 'total_chunks': 53, 'video_id': 'c1b2d45f-c838-48da-9deb-717b84896c44'}
+Content:
+Ensuite on peut lui ajouter également des sousagents. Là je n'ai pas ajouté, mais en fait si c'est ce sousagent qui vont chacun avoir la responsabilité de gérer une tâche ou plusieurs tâches. Dans le prentes qu'on a rédigé, que j'ai rédigé précédemment, en général je m'entraîne plus sur le Playground et une fois que c'est valider, une fois que le prentes il est bon, il est outil. Le coup de l'hiver, je le copicole ici. Donc voilà comment s'articule le prentes, premièrement le rôle. Tu es l'assistant personnel de Ternock avec Bedi, tu es en charge de gérer les tâches qui sont en lien avec son calendrier, son mot chien et sa boîte email. Contexte. Tu accès à trois sousagents. Slash, email agent, slash, calendrier agent et slash, mot chien agent. Tu peux les utiliser pour effectuer les actions nécessaires ou récupérer les informations dont je fais besoin pour accomplir ta mission. Tu as été équipé de l'UTI sans email avec lequel tu communiceras uniquement avec Ternock en lui envoyant des
+----------------------------------------
+
+--- Document 43 ---
+Metadata: {'chunk_index': 42, 'source': 'transcription', 'total_chunks': 53, 'video_id': 'c1b2d45f-c838-48da-9deb-717b84896c44'}
+Content:
+nécessaires ou récupérer les informations dont je fais besoin pour accomplir ta mission. Tu as été équipé de l'UTI sans email avec lequel tu communiceras uniquement avec Ternock en lui envoyant des messages. Ternock souhaite recevoir toute modification, misage vous, question ou autre chose en lien avec le message par WhatsApp. Donc là on le précise bien que la seule et unique canal de communication est WhatsApp. L'objectif, tu seras déclencher lorsque Ternock en verra un message sur WhatsApp. Et en tant que assistant, tu choisiras la meilleure solution et action pour atteindre l'objectif qui t'a été demandé. Tu agiras, étape par étape, faut être sûr, daté en l'objectif, quittez, demander et tout sera envoyé à Ternock via la message Rihwata. Exemple, donc là, deux slages pour dire qu'un exemple d'objectif, un exemple de tâche demandé pour être et tu peux me réserver à rendez-vous avec Daniel, si tu te plais. Ou alors sur ma toute douleuse Ternock, tu peux marquer que j'ai terminé le
+----------------------------------------
+
+--- Document 44 ---
+Metadata: {'chunk_index': 43, 'source': 'transcription', 'total_chunks': 53, 'video_id': 'c1b2d45f-c838-48da-9deb-717b84896c44'}
+Content:
+exemple d'objectif, un exemple de tâche demandé pour être et tu peux me réserver à rendez-vous avec Daniel, si tu te plais. Ou alors sur ma toute douleuse Ternock, tu peux marquer que j'ai terminé le projet client ou encore si tu te plais en un message à Peter Steele que j'aurais 15 moules de retard pour notre rendez-vous. Le SOP, tu utiliseras les SOP en fonction des tâches qui te sont en demandées en réplificant étape par étape pour atteindre l'objectif. Vous voyez, on ne lui dit pas exactement quoi faire, mais en lui dis la sémantique, le guidé, c'est vraiment de lui dire de le pousser à choisir à prendre la décision. On n'auriant toujours notre discours vers la prise de décision. Diennes outils et saux agents, tu vas être équipés de un outil et trois saux agents qui sont à ta disposition pour atteindre l'objectif. En majuscule, tu utiliseras toujours l'outil send WhatsApp pour communiquer n'importe quoi avec moi, modification, mise à jour, erreur, unique, uniquement send email,
+----------------------------------------
+
+--- Document 45 ---
+Metadata: {'chunk_index': 44, 'source': 'transcription', 'total_chunks': 53, 'video_id': 'c1b2d45f-c838-48da-9deb-717b84896c44'}
+Content:
+pour atteindre l'objectif. En majuscule, tu utiliseras toujours l'outil send WhatsApp pour communiquer n'importe quoi avec moi, modification, mise à jour, erreur, unique, uniquement send email, send WhatsApp, outil, comme outil. Slash, donc en fait, dessus, lorsque vous allez ajouter vos agents, on va vous demander de les retrouver ici avec eux. Cette notification, donc, email à agent, cet agent est en mesure de pouvoir traiter tous les tâches en lien avec la gestion de ma boîte email, supprimer un email, écrire un email, répondre à un email, modifier, etc. Je peux lui déléguer toutes les tâches en lien avec la gestion de ma boîte email à email manager, donc à l'agent en question. Soit précis et détail, bien tes instructions. Slash calendrier agent, donc là on s'adresse en lui explique le rôle et l'étage de l'agent qui gère le calendrier. Cette agent gère toutes les tâches en lien avec mon agenda, il peut prendre un rendez-vous, modifier une date, de rendez-vous, supprimer un
+----------------------------------------
+
+--- Document 46 ---
+Metadata: {'chunk_index': 45, 'source': 'transcription', 'total_chunks': 53, 'video_id': 'c1b2d45f-c838-48da-9deb-717b84896c44'}
+Content:
+le rôle et l'étage de l'agent qui gère le calendrier. Cette agent gère toutes les tâches en lien avec mon agenda, il peut prendre un rendez-vous, modifier une date, de rendez-vous, supprimer un rendez-vous, bloquer un crénorère, consulter mes disponibilités et encore plus. Lorsque tu vas déléguer des tâches à calendrier agent, il faut bien que tu sois précis et que tu détails parfaitement tes instructions sur ce qu'il doit faire, pareil pour l'agent qui gère nos chaînes. Cette agent gère toutes les tâches en lien avec mon nos chaînes, il peut modifier ajouter, supprimer n'importe quel contenu sur la page ou faire des modifications à jour, des mises à jour. Lorsque tu vas déléguer les tâches à nos chaînes, il faut bien que tu sois précis et que tu détails parfaitement tes instructions sur ce qu'il doit faire. Et ensuite en bas de page, on ajoute une note toujours en accentu avec l'écriture majestueule. Tu utilisera toujours et uniquement ce noeud de ça pour communiquer avec nous. C'est
+----------------------------------------
+
+--- Document 47 ---
+Metadata: {'chunk_index': 46, 'source': 'transcription', 'total_chunks': 53, 'video_id': 'c1b2d45f-c838-48da-9deb-717b84896c44'}
+Content:
+qu'il doit faire. Et ensuite en bas de page, on ajoute une note toujours en accentu avec l'écriture majestueule. Tu utilisera toujours et uniquement ce noeud de ça pour communiquer avec nous. C'est hyper important car c'est crucial pour notre entreprise. Terno habite, et là on lui donne des notifications, terné en habite dans le troisième ordissement, toujours me faire les résumés quand tu m'en vois à la message sur WhatsApp. Donc c'est là qu'on va ajouter les notations les plus importantes pour que les plus comprendre. Ou est-ce qu'on va venir ? Voilà, comment s'articule un prompt à Jean-Yah et comment il va pouvoir analyser notre prompt et réagir de la manière la plus efficace ? Ok, donc voici le type qui va nous permettre de pouvoir rédiger des promptes parfaits. Il y a à Jean-Rédacteur de promptes parfaits. C'est tout petit, on va vous saluer de pouvoir remplir les champs de manière très simple. Et ensuite il va automatiquement vous générer une structure de prompt non, que vous
+----------------------------------------
+
+--- Document 48 ---
+Metadata: {'chunk_index': 47, 'source': 'transcription', 'total_chunks': 53, 'video_id': 'c1b2d45f-c838-48da-9deb-717b84896c44'}
+Content:
+de promptes parfaits. C'est tout petit, on va vous saluer de pouvoir remplir les champs de manière très simple. Et ensuite il va automatiquement vous générer une structure de prompt non, que vous pouvez réutiliser pour vos automatisations ou vos agents. Il y a qui nous on va partir du principe quand se réagir et rédiger un prompt non pour une autre prise de reçois humais qui a besoin d'une automatisation pour analyser les CV et décider si lui ou non le concert se CV. Donc premièrement on va lui être très bien en relhe. Tu es un expert au source de humaine. J'ai l'air d'un objectif. Tu dois analyser chaque CV avec précision et donner des informations clés du CV afin de décider si lui ou non le concert se CV. Le contexte. Tu travailles pour un grand groupe plus qu'à 40. Les sessions dont on commence au très important car elles vont conditionner une efficacité de l'entreprise. Et ta, par étape. Premièrement tu as vérifié des informations clés. Mon entier est trop objectif de carrière. Tu
+----------------------------------------
+
+--- Document 49 ---
+Metadata: {'chunk_index': 48, 'source': 'transcription', 'total_chunks': 53, 'video_id': 'c1b2d45f-c838-48da-9deb-717b84896c44'}
+Content:
+commence au très important car elles vont conditionner une efficacité de l'entreprise. Et ta, par étape. Premièrement tu as vérifié des informations clés. Mon entier est trop objectif de carrière. Tu vas évaluer la formation. Une étude. Le pertinente du domaine pour le poste. Trois. Tu vas y démmer l'expérience. On a misé l'époste. Crosse pendant. Les correspondances avec le poste. La stabilité. La durée de chaque emploi. Identifiez les réalisations concrètes. Confirmez-les. Coimpétance technique. Quatre. Tu vas rechercher les soft skills. Et enfin la décision 5. Concernez le CV. Si l'expérience, les compétences et motivations sont alignées. 6. En bas les cartées. Tu vas les cartées si le CV. Monque de qualification. Une expérience inadaptée et fabule stabilité. Des instructions. Soit objectif et pragmatique. Tu dois absolument être au ministre. Il est important que tu me maquent. Un point important sur le CV. Un exemple de hotput. Si un exemple d'analyses un CV. Vieréfiles,
+----------------------------------------
+
+--- Document 50 ---
+Metadata: {'chunk_index': 49, 'source': 'transcription', 'total_chunks': 53, 'video_id': 'c1b2d45f-c838-48da-9deb-717b84896c44'}
+Content:
+Soit objectif et pragmatique. Tu dois absolument être au ministre. Il est important que tu me maquent. Un point important sur le CV. Un exemple de hotput. Si un exemple d'analyses un CV. Vieréfiles, informations clés. Non. Sarah Martin. Cheffe de projet. Cette exemple. J'ai tiré de chat GPT. Il va sortir un exemple que j'ai copié collé. J'ai présenté les étudiants. Il est parfaitement adaptable. Au T. Normalement ici, si j'avais clégué des outils, je vous laisse électionner les outils. Et là, on ne le curie pas. Donc on laisse le champ vide. Et une notation. Ne fais pas de photos d'orthographe. Utilise un vocabulaire simple et soit mis sur. Donc on travaille. C'est très important. Une fois que c'est fait, vous cliquez sur le bouton. On tour. Et là, l'agent va analyser votre texte. Et avec le printe que j'aurais déjà rédigé et le guet dans la janvier, il va pouvoir vous rédiger une structure de preinte, l'un, langue. Et vous pouvez réutiliser par la suite. Voilà le résultat. Vous avez
+----------------------------------------
+
+--- Document 51 ---
+Metadata: {'chunk_index': 50, 'source': 'transcription', 'total_chunks': 53, 'video_id': 'c1b2d45f-c838-48da-9deb-717b84896c44'}
+Content:
+le printe que j'aurais déjà rédigé et le guet dans la janvier, il va pouvoir vous rédiger une structure de preinte, l'un, langue. Et vous pouvez réutiliser par la suite. Voilà le résultat. Vous avez une expérience sur du mène pour un grand coup du plac 40. Objectif. Un objectif est d'exemple. On est chaque sébé avec précision pour dire tu es si le candidat est adapté au poste. Vous avez proposé l'antepasant sur l'écritère spécifique. Tu dois le décider sur le sébé de être conservé pour un entretien ou écarté. Les sessions de recrutement sacrificiales pour l'efficacité et la performance de l'entreprise. Une analyse miliceuse et abectue décémée et essentielle pour sélectionner les candidats les plus qualifiés et adapter aux nous en d'entreprises. Donc vous voyez, c'est incroyable ce qui fait. Sopie, voilà, on lui cite les étapes qui doivent suivre. On peut être éliminé en gras pour attirer son attention. La section, subjectif et pragmatique, dont on analyse à surtout de ne manquer aucun
+----------------------------------------
+
+--- Document 52 ---
+Metadata: {'chunk_index': 51, 'source': 'transcription', 'total_chunks': 53, 'video_id': 'c1b2d45f-c838-48da-9deb-717b84896c44'}
+Content:
+Sopie, voilà, on lui cite les étapes qui doivent suivre. On peut être éliminé en gras pour attirer son attention. La section, subjectif et pragmatique, dont on analyse à surtout de ne manquer aucun point sur le CV et utilise des documents de quoi. Il y a deux documents de connaissance fournie pour évaluer chaque aspect du CV. Soit une issue de temps de travail pour une quarantillir une sélection de qualité. Donc voilà, voilà, peu près. Et là, ça va vous donner un peu. Et là, ensuite après, vous avez simplement à copier, connaissez ça. Et à le peut-être modifier certains points si y'avait besoin. Vous copyz les collés, vous mettez dans votre automatisation. Et comme ça, vous avez un preuble de qualité. Donc voilà, ça sera tout pour cette vidéo. C'est ça qui a beaucoup aidé. N'hésitez pas à des ça à commentaire. Et si tu as des questions techniques, j'ai séréduret. Si y'allait pas, n'hésite pas à abonner à la chaîne parce que je vais produire pas mape de vidéo en lien avec
+----------------------------------------
+
+--- Document 53 ---
+Metadata: {'chunk_index': 52, 'source': 'transcription', 'total_chunks': 53, 'video_id': 'c1b2d45f-c838-48da-9deb-717b84896c44'}
+Content:
+pas à des ça à commentaire. Et si tu as des questions techniques, j'ai séréduret. Si y'allait pas, n'hésite pas à abonner à la chaîne parce que je vais produire pas mape de vidéo en lien avec l'intelligence artificielle, générative. Et il des automatisations qui te permettraient de pouvoir améliorer ton entreprise. Et si tu as des points de blocage ou si tu as besoin d'un compagnement spécifique, n'hésite pas à faire un tour sur notre site internet à faire qu'on puisse t'aider. À bientôt, à voir.
+----------------------------------------

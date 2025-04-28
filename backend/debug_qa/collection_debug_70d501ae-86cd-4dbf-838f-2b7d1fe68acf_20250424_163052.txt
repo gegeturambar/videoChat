@@ -1,0 +1,12 @@
+
+================================================================================
+DEBUG INFO - ChromaDB Collection State
+================================================================================
+
+VIDEO ID: 70d501ae-86cd-4dbf-838f-2b7d1fe68acf
+TIMESTAMP: 2025-04-24T16:30:52.098222
+COLLECTION NAME: video_a5f589cc-d92a-42dc-a086-ec3ed74a9386
+
+Number of documents: 0
+
+Documents and metadata:
